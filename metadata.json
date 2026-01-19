@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sahaya AI - Mental Health Companion",
+  "description": "An empathetic, voice-first AI companion for mental health support, anxiety, and depression. Supports multi-lingual interaction including Kannada using Gemini 2.5 Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
